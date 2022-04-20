@@ -1,8 +1,7 @@
 - Hi, I’m @UnidentifiedObject.
 - I’m interested in Travel, writing, reading and movies.
-- I'm 17 year old.
 - I’m currently learning C#
-- I started learning couple month ago, so i'm new here.
+- I'm planning to learn HTML,Css and JavaScript.
 
 
 <!---
