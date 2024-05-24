@@ -1,7 +1,7 @@
 - Hi, I’m @UnidentifiedObject.
 - I’m interested in Travel, writing, reading and movies.
 - I’m currently learning C, Java, SQL (Not currently C#)
-- I'm planning to learn HTML, Css and JavaScript.
+
 
 
 <!---
