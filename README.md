@@ -1,6 +1,6 @@
 - Hi, I’m @UnidentifiedObject.
-- I’m interested in Travel, writing, reading and movies.
-- I’m currently learning C, Java, SQL (Not currently C#)
+- I’m interested in Travel, writing and movies.
+- I’m currently learning C#, java, php, python.
 
 
 
