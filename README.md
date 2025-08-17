@@ -1,6 +1,6 @@
 - Hi, I’m Cevdet.
 - I’m interested in Travel, writing and movies.
-- I’m currently learning C#, java, html, css, JavaScript, php, python.
+- I’m currently learning C#, python.
 - I'm also interested in Machine Learning
 
 
